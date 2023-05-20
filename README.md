@@ -1,1 +1,1 @@
-isSoundEffectUsedOnFrame(trackId: FlipnoteSoundEffectTrack, frameIndex: number): boolean
+fromFlipnoteFrame(flipnote: Flipnote, frameIndex: number, settings?: Partial<GifImageSettings>): GifImage
