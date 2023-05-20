@@ -1,1 +1,1 @@
-import flipnote from 'flipnote.js';
+isSoundEffectUsedOnFrame(trackId: FlipnoteSoundEffectTrack, frameIndex: number): boolean
